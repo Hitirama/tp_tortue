@@ -49,8 +49,6 @@ figure_3(10,4,100,"red")
 figure_2(5,4,100,2,"blue")      
 figure_1(50,10,50,"pink")
 polygone(100,12,"green")
-#equilateral (100)
-#carre(100)
 turtle.exitonclick()
 
     
